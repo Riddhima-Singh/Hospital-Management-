@@ -294,7 +294,7 @@ while True:
 
 
 
-Connection successfull
+'''Connection successfull
 
 ______________________CITY HOSPITAL NEW DELHI_____________________
 _______________WELCOME TO HOSPITAL MANAGEMENT SYSTEM______________
@@ -537,4 +537,4 @@ _______________WELCOME TO HOSPITAL MANAGEMENT SYSTEM______________
 ...................................................................
 Enter the option number you wish to implement: 4
 ........THANKYOU FOR USING OUR PROGRAM........
- HAVE A NICE DAY! 
+ HAVE A NICE DAY! '''
